@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Playtime</string>
+    <string name="play_time">PlayTime</string>
+    <string name="_5th_floor_tt_table">5th Floor TT table</string>
+    <string name="not_available">Not Available</string>
+    <string name="available">Available</string>
+    <string name="_8th_floor_tt_table">8TH FLOOR TT TABLE</string>
+    <string name="reset_status">RESET STATUS</string>
+
+    <string-array name="office_buildings">
+        <item>Luxor</item>
+        <item>Ferns</item>
+        <item>Vigyan</item>
+    </string-array>
+
+    <string-array name="play_areas">
+        <item>5th Floor TT Table</item>
+        <item>8th Floor TT Table</item>
+    </string-array>
+</resources>
